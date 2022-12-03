@@ -1,4 +1,4 @@
-REMOTE CHAN1Ges2
+R1
 Remote2
 DtestC1
 F1
