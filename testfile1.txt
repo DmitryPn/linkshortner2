@@ -1,4 +1,4 @@
-DFEATURE
+REMOTE CHAN1Ges2
 Remote2
 DtestC1
 F1
