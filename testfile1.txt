@@ -1,4 +1,4 @@
-Dtest1R2
+DFEATURE
 Remote2
 DtestC1
 F1
